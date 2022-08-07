@@ -1,0 +1,1 @@
+[{ "id": 1, "nombre": "alfombra", "precio": 45 },{ "id": 2, "nombre": "televisor", "precio": 90 },{ "id": 3, "nombre": "computadora", "precio": 143 },{ "id": 4, "nombre": "ventilador", "precio": 62 },{ "id": 5, "nombre": "gorra", "precio": 14 },{ "id": 6, "nombre": "silla", "precio": 27 }]
